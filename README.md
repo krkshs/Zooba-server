@@ -7,8 +7,8 @@
 - Python сурсняк:
     - Требуется установить protobuf (модуль) и aiohttp (модуль).
 
-## АПК ДЕЛАЙТЕ САМИ, FRIDA GADGET СКРИПТ Я ЗАЛИЛ ТУТ
+## APK (сами заменяйте ip на сервере и в фрида скрипте)
 
-[![Frida Gadget Script](https://img.shields.io/badge/Frida_Gadget_Script-Посмотреть-blue?style=for-the-badge&logo=telegram)](https://t.me/FilesBrawl/583)
+[![apk](https://img.shields.io/badge/Скачать_апк-Скачать-blue?style=for-the-badge&logo=telegram)](https://t.me/FilesBrawl/585))
 
 ### by krksh
