@@ -12,3 +12,5 @@
 [![apk](https://img.shields.io/badge/Скачать_апк-Скачать-blue?style=for-the-badge&logo=telegram)](https://t.me/FilesBrawl/585)
 
 ### by krksh
+
+### Плз (pls) зарегайтесь (reg) по моей (my) рефке (ref) https://agentrouter.org/register?aff=JTY9
