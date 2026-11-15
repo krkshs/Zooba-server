@@ -9,6 +9,6 @@
 
 ## APK (сами заменяйте ip на сервере и в фрида скрипте)
 
-[![apk](https://img.shields.io/badge/Скачать_апк-Скачать-blue?style=for-the-badge&logo=telegram)](https://t.me/FilesBrawl/585))
+[![apk](https://img.shields.io/badge/Скачать_апк-Скачать-blue?style=for-the-badge&logo=telegram)](https://t.me/FilesBrawl/585)
 
 ### by krksh
